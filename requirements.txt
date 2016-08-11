@@ -1,0 +1,7 @@
+BeautifulSoup4
+scrapy
+scrapy_redis
+redis
+sqlalchemy
+pymysql
+
