@@ -138,7 +138,7 @@ services:
   [2]: https://github.com/caoxiaozh/itjuzi_dis
   [3]: https://www.docker.com/products/overview
   [4]: https://github.com/caoxiaozh/itjuzi_dis
-  [5]: /img/bVAlLY
-  [6]: /img/bVAlSh
-  [7]: /img/bVAlS7
-  [8]: /img/bVAlUh
+  [5]: https://segmentfault.com/img/bVAlLY
+  [6]: https://segmentfault.com/img/bVAlSh
+  [7]: https://segmentfault.com/img/bVAlS7
+  [8]: https://segmentfault.com/img/bVAlUh
